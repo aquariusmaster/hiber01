@@ -6,7 +6,7 @@
 /build/
 .gradle/
 /logs/
-mvnw*
+mvn*
 /out/
 
 ### STS ###
